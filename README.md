@@ -1,6 +1,7 @@
 This repository contains projects related to computer vision and image processing.
 
 **Sift Keypoint Detection and Panorama Creation-**
+
 Python version - 3.4.2.17
 Avg Running time: 30 sec
 
